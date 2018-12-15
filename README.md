@@ -10,6 +10,9 @@
 Для iOS:
 * [Apple Xcode](https://itunes.apple.com/ru/app/xcode/id497799835)
 * [Homebrew](https://docs.brew.sh/Installation)
+* carthage - `brew install carthage`
+* ios-deploy - `brew install ios-deploy`
+* libimobiledevice - `brew install libimobiledevice`
 
 Для Android:
 * [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
