@@ -1,4 +1,4 @@
-# Password Manager iOS Sample
+# Cucumber.rb iOS Sample
 Пример простейшего автотеста на Cucumber.rb для продукта Kaspersky Password Manager iOS.\
 В тесте пролистывается карусель экрана Welcome и в пост-кондишене проверяется, что попали на экран с соглашениями.\
 Тест запускается на реальном девайсе, окружение описывается в файле features/support/env.rb\
