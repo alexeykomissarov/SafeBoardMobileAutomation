@@ -23,3 +23,6 @@
 * [Cucumber iOS Sample](https://github.com/appium-boneyard/sample-code/tree/master/sample-code/examples/ruby/cucumber_ios)
 * [Cucumber Android Sample](https://github.com/appium-boneyard/sample-code/tree/master/sample-code/examples/ruby/cucumber_android/)
 * [Our Examples](https://github.com/alexeykomissarov/SafeBoardMobileAutomation/tree/master/Examples)
+
+## Exercises
+Задание на лабораторную описано в [Exercises.md](https://github.com/alexeykomissarov/SafeBoardMobileAutomation/blob/master/Exercises.md).
